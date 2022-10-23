@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a researcher and project manager who is extremely passionate about exploring the unbounded capability of deep learning!
+I'm a researcher and project manager who is extremely passionate about exploring deep learning models and seeing what machine learning is capable of.
 
 
 - 🔭 I’m currently a graduate researcher at Western Washington University, working with faculty members and climate scientists to create high fidelity simulations of our global climate!
