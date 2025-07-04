@@ -6,6 +6,7 @@ I found my way into computer science whilst living in my van during a gap semest
 ---
 ## 🔧 Technologies & Tools
 - **Languages**: Python, Java, JavaScript, Rust, HTML/CSS
-- **Data & ML**: PyTorch, pandas, scikit-learn, TensorFlow, NumPy, xarray, netCDF
+- **ML**: PyTorch, scikit-learn, TensorFlow
+- **Data**: pandas, NumPy, xarray, netCDF
 ---
 > “The best way to learn is to build. The second-best way is to teach.”
