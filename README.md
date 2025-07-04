@@ -9,4 +9,13 @@ I found my way into computer science whilst living in my van during a gap semest
 - **ML**: PyTorch, scikit-learn, TensorFlow
 - **Data**: pandas, NumPy, xarray, netCDF
 ---
+## ☕️ Let's Connect
+
+- 🌐 [sethbassetti.com](https://sethbassetti.com)
+- 🐦 [@sethbassetti](https://twitter.com/sethbassetti)
+- 📫 [sethbassetti@gmail.com](mailto:sethbassetti@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/sethbassetti)
+  
+---
+
 > “The best way to learn is to build. The second-best way is to teach.”
