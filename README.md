@@ -1,9 +1,7 @@
-### Hi, I'm Seth Bassetti 👋
+# Hi, I'm Seth Bassetti 👋
 
-I'm a researcher and project manager who is extremely passionate about exploring deep learning models and seeing what machine learning is capable of.
+## 🌄 About Me
+I found my way into computer science whilst living in my van during a gap semester in Yosemite Valley. Looking for a way to continue learning while away from school, I tried out coding for the first time and was immediately hooked! Since then, I've been fascinated by the field of deep learning and its application to the physical sciences, specifically in the environmental realm. 
 
-
-- 🔭 I’m currently a graduate researcher at Western Washington University, working with faculty members and climate scientists to create high fidelity simulations of our global climate!
-
-- 💬 Ask me about anything deep learning! Whether it is computer vision, natural language processing, or anything else, I am always excited about discussing and learning more about these concepts!
-
+---
+> “The best way to learn is to build. The second-best way is to teach.”
