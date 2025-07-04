@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Seth Bassetti 👋
 
 I'm a researcher and project manager who is extremely passionate about exploring deep learning models and seeing what machine learning is capable of.
 
